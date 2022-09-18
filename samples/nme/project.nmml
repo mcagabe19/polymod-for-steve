@@ -4,7 +4,7 @@
 	<meta title="NMESample" package="NMESample" version="1.0.0" company="" />
 	
 	<app main="Main" path="Export" file="NMESample" />
-	
+
 	<source path="Source" />
 	
 	<haxelib name="nme" />
@@ -12,6 +12,5 @@
 
 	<assets path="Assets/img" rename="img" />
 	<assets path="Assets/data" rename="data" />
-	<icon path="Assets/nme.svg" />
-	
+	<icon path="Assets/nme.svg" />	
 </project>
